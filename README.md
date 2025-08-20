@@ -42,18 +42,34 @@ While Wireshark is capturing:
 
 These are TCP packets with syn flag
 
-
+![sync](Screenshots/sync.png)
 
 These are TCP packets with syn,ack flag
 
+![sync-ack](Screenshots/sync-ack.png)
+
 These are TCP packets with ack flag
+
+![ack](Screenshots/ack.png)
 
 These are TCP packets with psh,ack flag
 
+![psh-ack](Screenshots/psh-ack.png)
+
 Dns- query
+
+![dns-query](Screenshots/dns-query.png)
+
+![dns-query-google](Screenshots/dns-query-google.png)
 
 Dns- response
 
+![dns-response](Screenshots/dns-response.png)
+
 Http
 
+![http](Screenshots/http.png)
+
 ICMP
+
+![ICMP](Screenshots/ICMP.png)
