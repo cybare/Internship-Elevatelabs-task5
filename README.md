@@ -34,9 +34,26 @@ While Wireshark is capturing:
 
 •	Then I Open a browser and visit website (e.g. www.geeksforgeek.com)
 
-![browser](Screenshots/browser.png)
-
 •	Let it run for ~5 minute.
+
 •	Click the red stop button in Wireshark.
 
+#### Step 3:
 
+These are TCP packets with syn flag
+
+
+
+These are TCP packets with syn,ack flag
+
+These are TCP packets with ack flag
+
+These are TCP packets with psh,ack flag
+
+Dns- query
+
+Dns- response
+
+Http
+
+ICMP
