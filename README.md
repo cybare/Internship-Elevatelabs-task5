@@ -22,3 +22,13 @@ Install Wireshark. Since I am using kali linux wireshark is pre installed. Selec
 
 ![ipAddr](Screenshots/ipcheck.png)
 
+#### Step 2:
+
+Open Wireshark (GUI). Click Start Capturing Packets (the blue shark fin). Now I Generate Some Traffic
+
+While Wireshark is capturing:
+
+•	Run a ping in the terminal:
+
+![ping](Screenshots/Pingcommand.png)
+
