@@ -73,3 +73,27 @@ Http
 ICMP
 
 ![ICMP](Screenshots/ICMP.png)
+
+### Protocols Identified:
+
+DNS → Requests to resolve domain names (e.g., google.com → IP)
+
+TCP → Underlying transport for web browsing.
+
+HTTP/HTTPS → Traffic from visiting a website.
+
+ICMP → Ping packets to test connectivity.
+
+### Findings:
+
+DNS packets show IP resolution.
+
+TCP handshake (SYN, SYN-ACK, ACK) observed.
+
+HTTP request header (GET /index.html) captured.
+
+ICMP echo request/reply confirmed connectivity.
+
+### Deliveriables:
+
+I am submiiting a pcap file of above.
