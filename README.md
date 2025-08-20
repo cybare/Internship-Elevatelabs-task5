@@ -20,4 +20,5 @@ A packet capture (.pcap) file and a short report of protocols identified
 
 Install Wireshark. Since I am using kali linux wireshark is pre installed. Select active network interface (usually eth0, wlan0, or similar). To check this I use command ip addr show.
 
+![ipAddr](Screenshots/ipaddr.png)
 
