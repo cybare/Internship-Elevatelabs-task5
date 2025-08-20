@@ -32,3 +32,11 @@ While Wireshark is capturing:
 
 ![ping](Screenshots/Pingcommand.png)
 
+•	Then I Open a browser and visit website (e.g. www.geeksforgeek.com)
+
+![browser](Screenshots/browser.png)
+
+•	Let it run for ~5 minute.
+•	Click the red stop button in Wireshark.
+
+
